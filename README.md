@@ -1,6 +1,6 @@
 # Fill Online Class Feedback Form
 
-# Install the requests dependecy
+#### Install the requests dependecy
 * pip3 install requests
 
 To fill the data, make the following changes in the script under the variable data:
